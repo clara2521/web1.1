@@ -67,6 +67,18 @@ a{
     font-weight: bold;
     float: right inline-end;
 }
+.carousel-inner{
+    display: flex;
+    justify-content: center;
+    
+}
+.menu ul{
+    border:1px solid red;
+    padding: 5px;
+    font: bold 14 px verdana;
+    display: inline-block;
+    text-align: center;
+}
 
 
 a:hover {
